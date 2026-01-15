@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Product Grid</title>
+    <link rel="stylesheet" href="./stylesheet9.css">
+</head>
+<body>
+    <h1 class="title">Responsive Product Grid</h1>
+
+    <div class="grid-container">
+        <div class="product-card">
+            <img src="https://via.placeholder.com/80" alt="">
+            <h2>Product 1</h2>
+            <p>High-quality item with great features.</p>
+            <span class="price">₹499</span>
+        </div>
+
+        <div class="product-card">
+            <img src="https://via.placeholder.com/80" alt="">
+            <h2>Product 2</h2>
+            <p>Durable and stylish for daily use.</p>
+            <span class="price">₹799</span>
+        </div>
+
+        <div class="product-card">
+            <img src="https://via.placeholder.com/80" alt="">
+            <h2>Product 3</h2>
+            <p>Lightweight and comfortable.</p>
+            <span class="price">₹1,299</span>
+        </div>
+
+        <div class="product-card">
+            <img src="https://via.placeholder.com/80" alt="">
+            <h2>Product 4</h2>
+            <p>Trendy design with premium quality.</p>
+            <span class="price">₹999</span>
+        </div>
+    </div>
+
+</body>
+</html>
